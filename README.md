@@ -1,6 +1,6 @@
 # Student Management System
 
-A console-based **Student Management System** developed using **Java, JPA, Hibernate, Maven, and MySQL**. The project demonstrates CRUD operations and a **unidirectional many-to-many relationship** between students and subjects using JPA.
+A console-based **Student Management System** developed using **Java, Eclipse, JPA, Hibernate, Maven, and MySQL**. The project demonstrates CRUD operations and a **unidirectional many-to-many relationship** between students and subjects using JPA.
 
 ## 🚀 Features
 
